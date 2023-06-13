@@ -1,6 +1,5 @@
-# Welcome to our GitHub Page 👋
+# Welcome to [GoComply.ai](https://www.gocomply.ai)  👋
 
-We're a dynamic team dedicated to creating innovative software solutions. We work in the exciting and fast-paced realm of digital advertising, and we're thrilled to work with [GoComply.ai](https://www.gocomply.ai) and its product ComplyAi.
 
 ## About ComplyAi
 
