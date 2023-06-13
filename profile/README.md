@@ -22,7 +22,7 @@ We're excited about the possibilities that our work with GoComply's ComplyAi can
 You can contact us via:
 
 - Email: [innovators@gocomply.ai](mailto:innovators@gocomply.ai)
-- Phone: [+1-310-426-8542](tel:+13104268542)
+- Phone: [+1(310)426-8542](tel:+13104268542)
 
 ## Join Us
 
