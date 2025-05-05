@@ -5,7 +5,7 @@
 
 ComplyAi is a game-changing solution dedicated to empowering businesses in the digital advertising space. By streamlining the ad review process and promoting a compliant and user-friendly environment, ComplyAi aims to simplify digital advertising and make it accessible to all, resulting in increased revenue, optimized ad campaigns, mitigated risk, and an enhanced customer experience.
 
-This AI-driven, patent-pending tool, developed by Meta alumni, provides transparency and detailed guidance to advertisers of all sizes. It helps businesses stay compliant with Meta’s Advertising Policies and Community Standards, along with other regulations like FINRA, ADA, FDA, SEC, or GDPR.
+This AI-driven, patent-pending tool, developed by Meta alumni, provides transparency and detailed guidance to advertisers of all sizes. It helps businesses stay compliant with Meta’s Advertising Policies and Community Standards.
 
 ### How It Works
 
